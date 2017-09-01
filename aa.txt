@@ -7,6 +7,6 @@ HEAD
 one
 teo
 three
-=======
-oneparent of 7953e7c... 新增teo
+新增
+teo
 新增尝试冲突2
