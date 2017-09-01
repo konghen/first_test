@@ -1,18 +1,2 @@
 ﻿zhangsan
 My stupid boss still prefers SVN.
-zhazha
-rabbit
-bbb
-HEAD
-one
-teo
-three
-尝试2
-
-新增
-teo
-新增尝试冲突2
-
-尝试3
-
-尝试4
