@@ -1,12 +1,11 @@
-zhangsan
+﻿zhangsan
 My stupid boss still prefers SVN.
 zhazha
 rabbit
 bbb
-<<<<<<< HEAD
+HEAD
 one
 teo
 three
 =======
-one
->>>>>>> parent of 7953e7c... 新增teo
+oneparent of 7953e7c... 新增teo
